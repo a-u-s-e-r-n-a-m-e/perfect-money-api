@@ -1,6 +1,8 @@
 <?php
-use Skpassegna\PerfectmoneyPhp;
 require_once '../vendor/autoload.php';
+
+use Skpassegna\PerfectmoneyPhp;
+
 
 
 // Set Perfect Money account ID and passphrase

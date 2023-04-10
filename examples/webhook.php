@@ -1,7 +1,8 @@
 <?php
+require_once '../vendor/autoload.php';
 
 use Skpassegna\PerfectmoneyPhp;
-require_once '../vendor/autoload.php';
+
 
 // Initialize PerfectMoney object
 $pm = new PerfectMoney('your_account_id', 'your_passphrase');

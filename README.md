@@ -1,5 +1,5 @@
 # Notice
-This project is still under development, and this is only a preview.
+This project is still under development, and this is only a preview. I am curently rebuilding the project...
 
 ## **Usage**
 
