@@ -2,7 +2,13 @@
 use PHPUnit\Framework\TestCase;
 use Skpassegna\PerfectmoneyPhp;
 require_once 'PerfectMoney.php';
-
+/**
+ * Class PerfectMoneyTest
+ *
+ * Unit tests for the PerfectMoney class
+ *
+ * @author Samuel <online@skpassegna.me>
+ */
 class PerfectMoneyTest extends TestCase {
     
     // Test the constructor method of the PerfectMoney class

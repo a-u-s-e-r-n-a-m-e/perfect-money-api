@@ -1,7 +1,7 @@
 <?php
     
     namespace Skpassegna\PerfectmoneyPhp;
-    /**
+ /**
  * PerfectMoney.php
  *
  * A PHP class for interacting with the Perfect Money payment gateway API.
